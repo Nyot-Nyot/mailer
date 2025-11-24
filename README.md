@@ -81,7 +81,3 @@ curl -i -X POST http://localhost:5000/api/product/getBill \
 #### /api/product/getBill
 
 ![get bill test](/assets/product-email-test.png)
-
-#### email sent
-
-![email sent](/assets/email-sent.png)
